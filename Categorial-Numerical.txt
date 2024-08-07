@@ -1,0 +1,7 @@
+Metro_Traffic: 
+Numerical = {`temp', `rain_1h', `snow_1h', `clouds_all', `traffic_volume'}
+Categorical = {`holiday', `weather_main', `weather_description'}
+
+Pollution:
+Numerical = {`pm2.5', `DEWP', `TEMP', `PRES', `lws', `ls', `lr'}
+Categorical = {`cbwd'}
